@@ -67,6 +67,7 @@ function myFunction() {
        <input type="submit" value="Fierro">
        <input type="submit" value="Pariente">
         <br>-->
+        <h1>Video Exposicion de la Banda</h1> 
         <iframe width="480" height="270" src="https://www.youtube.com/embed/4Gj6V59abDA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </body>
 </html>
