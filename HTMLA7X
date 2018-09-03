@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+          <h1>Avenged Sevenfold</h1>
+        <title>Practica1</title>
+        <meta charset="windows-1252">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body background="C:\Users\FCFM\Desktop\HTMLA7X/6.png" width="10000" height="1000">
+      
+        <form>
+             Nombre del Fan:<br>
+         <input type="text" name="nombre"><br>
+             Apellido del fan:<br>
+         <input type="text" name="apellido"><br> 
+         <br>
+         <select name="integrantes">
+  <option value="zack">Zacky Vengeance</option>
+  <option value="johnny">Johnny Christ</option>
+  <option value="brook">Brooks Wackerman</option>
+  <option value="matt">Matt Shadows</option>
+  <option value="syn">Synyster Gates</option>
+</select>
+    
+        <br><br>
+        <button onclick="myFunction()">Enviar</button><br>
+             <h1>Integrantes</h1>
+             
+        </form>
+        <br>
+        <a href="https://es.wikipedia.org/wiki/Zacky_Vengeance">
+        <img src="C:\Users\FCFM\Desktop\HTMLA7X/1.jpg" alt="Zacky Vengeance" width="220" height="270">
+        </a>
+        
+        <a href="https://es.wikipedia.org/wiki/Johnny_Christ">
+        <img src="C:\Users\FCFM\Desktop\HTMLA7X/2.jpg" width="220" height="270">
+        </a>
+        
+        <a href="https://es.wikipedia.org/wiki/Brooks_Wackerman">
+        <img src="C:\Users\FCFM\Desktop\HTMLA7X/3.jpg" width="220" height="270">
+        </a>
+        
+        <a href="https://es.wikipedia.org/wiki/M._Shadows">
+        <img src="C:\Users\FCFM\Desktop\HTMLA7X/4.jpg" width="220" height="270">
+        </a>
+        
+        <a href="https://es.wikipedia.org/wiki/Synyster_Gates">
+        <img src="C:\Users\FCFM\Desktop\HTMLA7X/5.jpg" width="220" height="270">
+        </a><br><br>
+        
+        
+       <!--<input type="submit" value="Dale">
+       <!--<button onclick="my">Try it</button>
+
+<!--<script>
+function myFunction() {
+        var a= getText(nombre);
+        var b= getText(apellido);
+    alert(a + b);
+}
+</script>--
+       <input type="submit" value="Fierro">
+       <input type="submit" value="Pariente">
+        <br>-->
+        <iframe width="480" height="270" src="https://www.youtube.com/embed/4Gj6V59abDA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </body>
+</html>
